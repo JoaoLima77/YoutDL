@@ -1,4 +1,4 @@
-# Yout Downloader
+# YoutDL
 
 Aplicativo desktop desenvolvido em **Python** para download de vídeos do YouTube e conversão de vídeos em arquivos de áudio.
 
@@ -15,7 +15,7 @@ O projeto foi construído utilizando as seguintes tecnologias e bibliotecas:
 
 ## 2. Estrutura do projeto
 
-    downloadertube/
+    YoutDL/
     │
     ├── main.py
     ├── logo.ico
@@ -29,11 +29,11 @@ Siga os passos abaixo para executar a aplicação no seu computador.
 
 ### 3.1. Clone o repositório
 
-    git clone https://github.com/JoaoLima77/downloadertube.git
+    git clone https://github.com/JoaoLima77/YoutDL.git
 
 Entre na pasta do projeto:
 
-    cd downloadertube
+    cd YoutDL
 
 ### 3.2. Instale as dependências
 
