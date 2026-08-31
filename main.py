@@ -118,7 +118,7 @@ class YouTubeDownloader(ctk.CTk):
         self.criar_interface()
 
     def configurar_janela(self):
-        self.title("YouTube Downloader")
+        self.title("YoutDL")
         self.geometry("460x510")
         self.resizable(False, False)
         self.configure(fg_color=CORES["fundo"])
